@@ -1,6 +1,6 @@
 # Hospital Management System
 
-This is a Hospital Management System designed to simplify the management of various hospital functions, such as appointment scheduling, patient data management, doctor data management, and billing.
+This is a Hospital Management System designed to simplify the management of various hospital functions, such as data management of patients, doctors, non medical staff and nurses.
 
 ## Installation
 
@@ -15,15 +15,13 @@ To connect to the MySQL database, replace the placeholder with your own MySQL ro
 
 ## Usage
 
-Once the required libraries are installed and you are connected to the database, run the `main.py` file to start the Hospital Management System. 
+Once the required libraries are installed and you are connected to the database, run the `hms.py` file to start the Hospital Management System. 
 
-The system offers the following functions:
-- Adding a new patient
-- Adding a new doctor
-- Scheduling an appointment
-- Viewing patient data
-- Viewing doctor data
-- Generating a bill
+The system offers the following functions (CRUD):
+- Adding a new patient, doctor, non medical staff and nurse.
+- viewing patient, doctor, non medical staff and nurses data.
+- update patient, doctor, non medical staff and nurses data.
+- Delete patient, doctor, non medical staff and nurses data
 
 ## Note
 
