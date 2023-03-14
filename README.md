@@ -5,8 +5,8 @@ This is a Hospital Management System designed to simplify the management of vari
 ## Installation
 
 Before running the Hospital Management System, install the required libraries using the following `pip` commands in your terminal:
-pip install mysql.connector
-pip install stdiomask
+- pip install mysql.connector
+- pip install stdiomask
 
 
 ## Connecting to the database
